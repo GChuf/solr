@@ -257,7 +257,7 @@
 
        For more details see https://solr.apache.org/guide/jmx-with-solr.html
     -->
-  <jmx />
+
   <!-- If you want to connect to a particular server, specify the
        agentId
     -->
